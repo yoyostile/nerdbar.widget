@@ -30,8 +30,8 @@ icon: (output) =>
 style: """
   -webkit-font-smoothing: antialiased
   font: 9px Input
-  font: 12px Inconsolata
-  top: 7px
+  font: 12px Hack
+  top: 6px
   right: 195px
-  color: #d5c4a1
+  color: #E2CDC8
 """

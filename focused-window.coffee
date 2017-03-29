@@ -52,8 +52,8 @@ decide: (elem) ->
 
 style: """
   -webkit-font-smoothing: antialiased
-  color: #d5c4a1
-  font: 11px Inconsolata
+  color: #E2CDC8
+  font: 11px Hack
 
   height: 18px
   left: 10px

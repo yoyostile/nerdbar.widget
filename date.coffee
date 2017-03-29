@@ -15,9 +15,8 @@ update: (output, el) ->
 
 style: """
   -webkit-font-smoothing: antialiased
-  color: #d5c4a1
-  font: 10px Input
-  font: 13px Inconsolata
+  color: #E2CDC8
+  font: 12px Hack
   right: 93px
   top: 6px
 """
